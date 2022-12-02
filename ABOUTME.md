@@ -1,8 +1,8 @@
 - 👋 Hello, my name is @WilliamFrisch
 - 👀 I am currently enrolled at Southern Careers Institute getting my under grad in software development 
-- 🌱 I am  currently learning Full-Stack Engineering 
+- 🌱currently I am learning Full-Stack Engineering 
 - 💞️ I’m looking to collaborate on anything full stack related that can give me good practice or experience  
-- 📫 How to reach me my email is w.frisch@yahoo.com
+- 📫 You can reach me by email at w.frisch@yahoo.com
 
 <!---
 WilliamFrisch/WilliamFrisch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
